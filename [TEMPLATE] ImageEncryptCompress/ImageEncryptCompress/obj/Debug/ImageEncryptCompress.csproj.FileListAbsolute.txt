@@ -1,0 +1,36 @@
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\MetroFramework.dll
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.MainFormUI.resources
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.EncryptForm.resources
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.ColorFrequenciesForm.resources
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.HuffmanTreeForm.resources
+C:\Users\Tohamy\Documents\Visual Studio 2015\Projects\[ALG17']ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.CompressFileForm.resources
+C:\Users\Sara Agamy\Desktop\project algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\Sara Agamy\Desktop\project algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Sara Agamy\Desktop\project algo\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\MetroFramework.dll
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.ColorFrequenciesForm.resources
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.CompressFileForm.resources
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.EncryptForm.resources
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.HuffmanTreeForm.resources
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Forms.MainFormUI.resources
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Tohamy\Desktop\Algo Project\Final - TASLEEM\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
